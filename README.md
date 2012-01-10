@@ -11,7 +11,8 @@ It will delete, duplicate and move lines. There is also a command that will take
 
 To install:
 
-1. Download the zip or tar.gz package
-2. Rename it to LineCommands.codaplugin
-3. Move it to ~/Library/Application Support/Coda/Plug-ins/
-4. Restart Coda
+1. Download the zip package
+2. Unzip it. You'll end up with a folder named like lmaccherone-LineCommands.codaplugin-3bf2410
+3. Rename the folder to LineCommands.codaplugin
+4. Move the renamed folder to ~/Library/Application Support/Coda/Plug-ins/
+5. Restart Coda
